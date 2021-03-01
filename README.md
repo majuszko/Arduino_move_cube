@@ -8,5 +8,5 @@ Used components:
 - Ultrasound sensor
 - Ardity
 
-The ultrasound sensor was used to measure the distance to the nearest obstacle and depending on the measurement, the cube moved faster or slower (when the distance was smaller, the cube moved 
-slower, and it moved faster when the distance was bigger).
+The ultrasound sensor was used to measure the distance to the nearest obstacle and depending on the measurement, the cube moved faster or slower (when the distance was shorter, the cube moved 
+slower, and it moved faster when the distance was greater).
